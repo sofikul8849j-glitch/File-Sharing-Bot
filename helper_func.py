@@ -119,7 +119,7 @@ subscribed = filters.create(is_subscribed)
 
 
 
-# Jishu Developer 
+# sofikul debolopar 
 # Don't Remove Credit 🥺
 # Telegram Channel @Madflix_Bots
 # Backup Channel @JishuBotz
